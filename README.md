@@ -218,3 +218,5 @@ This project demonstrates:
 - Real-world OPD behavior simulation
 
 It reflects how a simplified OPD token management backend would work in an actual hospital environment.
+
+## Report : ![Project Report](docs/OPD Token Allocation System.pdf)
