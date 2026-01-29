@@ -169,7 +169,7 @@ Below is the simulation output captured from:
 
 http://localhost:3000/simulate
 
-![OPD Simulation Output](docs/simulation.png)
+![OPD Simulation Output](Project-Report-and-Screenshot/simulation.png)
 
 
 ## Design Decisions
